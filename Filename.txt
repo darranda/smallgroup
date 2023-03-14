@@ -1,2 +1,5 @@
 git commit
 creates a snapshot of changes and saves it to git directory
+
+git push
+this command gets the new file or changes made to the remote repo.
