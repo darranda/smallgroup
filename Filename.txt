@@ -6,3 +6,6 @@ this command gets the new file or changes made to the remote repo.
 
 git pull
 merges all changes in remote repository to the local directory
+
+git init
+create a new local repo in the directory you are currently in
