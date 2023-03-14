@@ -1,0 +1,2 @@
+git commit
+creates a snapshot of changes and saves it to git directory
